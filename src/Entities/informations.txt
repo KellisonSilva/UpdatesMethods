@@ -1,0 +1,7 @@
+Fazer um programa para ler os dados (nome, email e salario)
+de funcionarios a partir de um arquivo em formato .csv.
+
+Em seguida mostrar, em ordem alfabetica, o email dos funcionarios cujo salario seja superior a um dado valor
+fornecido pelo usuario.
+
+,Mostrar tambem a soma dos salarios dos funcionarios cujo nome comeca com a letra 'M'.
